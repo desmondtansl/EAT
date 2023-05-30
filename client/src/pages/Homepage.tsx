@@ -1,7 +1,7 @@
 function Homepage() {
   return (
     <div>
-      <p>HOMEPAGE</p>
+      <p>GIT BRANCH TEST</p>
     </div>
   );
 }
